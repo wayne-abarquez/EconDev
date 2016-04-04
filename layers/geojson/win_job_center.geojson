@@ -1,0 +1,860 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -88.998024,
+                    33.895737,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Employment Service",
+                "styleUrl": "#style36",
+                "styleHash": "-fe748f9"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -88.528946,
+                    34.908703,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Win Job Center",
+                "styleUrl": "#style37",
+                "styleHash": "3457433"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -90.720261,
+                    33.745239,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "119 Commerce Ave",
+                "styleUrl": "#style2",
+                "styleHash": "-7a7c267e",
+                "description": "Cleveland, MS 38732<br><a href=\"https://maps.google.com/maps/place?ftid=0x862ba8f9359aa86f:0x6414891ebe055f21&amp;q=Cleveland+WIN+Job+Center+119++Commerce+Ave.+Cleveland,+MS++38732-1750&amp;hl=en&amp;authuser=0&amp;cad=src:ppiwlink&amp;ei=j9G3UOP8DrHawQGDz4CwDg&amp;dtab=5\" target=\"_blank\"><img src=\"https://cbks0.google.com/cbk?output=thumbnail&amp;w=90&amp;h=68&amp;ll=33.745241,-90.720259&amp;thumb=0\"></a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -90.565796,
+                    34.20726,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Win Job Center",
+                "styleUrl": "#style45",
+                "styleHash": "cea37a9"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -90.0159,
+                    34.967953,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "DeSoto County WIN Job Center",
+                "styleUrl": "#style16",
+                "styleHash": "-2953fd7b",
+                "description": "<div dir=\"ltr\">Desoto County WIN Job Center<br>7320 Hwy 51 N<br>Southaven, MS  38671</div>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -89.823746,
+                    33.775673,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Employment Service",
+                "styleUrl": "#style26",
+                "styleHash": "-2e64c3ed"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -89.035576,
+                    30.431868,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Employment Security Department",
+                "styleUrl": "#style21",
+                "styleHash": "33ea1cab"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -88.548241,
+                    30.369896,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Win Job Center",
+                "styleUrl": "#style12",
+                "styleHash": "17189c09"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -89.864922,
+                    31.60083,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Placemark 23",
+                "styleUrl": "#style51",
+                "styleHash": "568c2104"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -89.149307,
+                    31.713865,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "2139 Mississippi 15",
+                "styleUrl": "#style38",
+                "styleHash": "-301d95bb",
+                "description": "Laurel, MS 39440<br><a href=\"https://maps.google.com/maps/place?ftid=0x8883342058377beb:0x387b1d19212fe250&amp;q=2139+Highway+15+North+Suite+D+Laurel,+MS++39440&amp;hl=en&amp;authuser=0&amp;cd=1&amp;cad=src:ppiwlink&amp;ei=Vca4UJijBYLzwQGU44GIBg&amp;sig2=As7WfmGwPDC6OcbW6o4npg&amp;dtab=5\" target=\"_blank\"><img src=\"https://cbks0.google.com/cbk?output=thumbnail&amp;w=90&amp;h=68&amp;ll=31.713866,-89.149306&amp;thumb=0\"></a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -88.744125,
+                    32.378418,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Meridian WIN Job Center",
+                "styleUrl": "#style42",
+                "styleHash": "-42c45534",
+                "description": "2000 Hwy 19 N<br>Meridian, MS 39307<br><a href=\"https://maps.google.com/maps/place?ftid=0x88847e4eadad8e97:0x3df1e135fabf62d3&amp;q=2000+Hwy+19+N+Meridian,+MS++39307&amp;hl=en&amp;authuser=0&amp;cd=1&amp;cad=src:ppiwlink&amp;ei=Tsm4UIy3AcWuwQHY3YDQDw&amp;sig2=NWk4T-lAl14LyissGBpPWg&amp;dtab=5\" target=\"_blank\"><img src=\"https://cbks0.google.com/cbk?output=thumbnail&amp;w=90&amp;h=68&amp;ll=32.378419,-88.744125&amp;thumb=0\"></a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -90.202171,
+                    33.527657,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Win Job Center",
+                "styleUrl": "#style19",
+                "styleHash": "265a8f62"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -89.522743,
+                    32.736526,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Carthage WIN Jobs Center",
+                "styleUrl": "#style34",
+                "styleHash": "104f03c9",
+                "description": "202 C O Brooks St<br>Carthage, MS 39051<br><a href=\"https://maps.google.com/maps/place?ftid=0x888237c6391184b1:0x3c94a665be5bb580&amp;q=202+C.+O.+Brooks+Street+Carthage,+MS++39051-4262&amp;hl=en&amp;authuser=0&amp;cd=1&amp;cad=src:ppiwlink&amp;ei=tsm4UKeRAtTZwQG8roG4CA&amp;sig2=vgNm0jxRBGCVyb5hl9j8cQ&amp;dtab=5\" target=\"_blank\"><img src=\"https://cbks0.google.com/cbk?output=thumbnail&amp;w=90&amp;h=68&amp;ll=32.736527,-89.522740&amp;thumb=0\"></a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -88.776733,
+                    34.307018,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Employment Security Commission",
+                "styleUrl": "#style17",
+                "styleHash": "4690dc24"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -90.451637,
+                    31.580231,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Ms Department-Employment Security",
+                "styleUrl": "#style24",
+                "styleHash": "-7c675678"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -88.573761,
+                    33.482346,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Golden Triangle Win Center",
+                "styleUrl": "#style33",
+                "styleHash": "-5f95d5d6"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -90.078773,
+                    32.598022,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Win Job Center",
+                "styleUrl": "#style29",
+                "styleHash": "-4cef165d",
+                "description": "<div dir=\"ltr\">Madison County WIN Job Center<br>152 Watford Parkway Drive, Suite B<br>Canton, MS 39046</div>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -89.806068,
+                    31.244205,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Columbia WIN Job Center",
+                "styleUrl": "#style13",
+                "styleHash": "-79028a58",
+                "description": "1111 U.S. 98<br>Columbia, MS 39429<br><a href=\"https://maps.google.com/maps/place?ftid=0x889d69c920fcd6b3:0x4911a17889368949&amp;q=1111+Hwy.+98+Columbia,+MS++39429-3701+&amp;hl=en&amp;authuser=0&amp;cd=1&amp;cad=src:ppiwlink&amp;ei=qsq4UIWkFpKpwQHa44DwBA&amp;sig2=sVa_JMqjahmL8BXCRsluyg&amp;dtab=5\" target=\"_blank\"><img src=\"https://cbks0.google.com/cbk?output=thumbnail&amp;w=90&amp;h=68&amp;ll=31.244206,-89.806067&amp;thumb=0\"></a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -88.48188,
+                    34.002998,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "WIN Job Center",
+                "styleUrl": "#style31",
+                "styleHash": "-3f5f8914"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -89.202225,
+                    32.777969,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "390 Industrial Dr",
+                "styleUrl": "#style46",
+                "styleHash": "7ccf1148",
+                "description": "390 Industrial Dr<br>Pearl River, MS 39350<br>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -89.161346,
+                    32.318878,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Newton WIN Jobs Center",
+                "styleUrl": "#style1",
+                "styleHash": "159effe3",
+                "description": "Newton WIN Job Center<br>107 Adams Street<br>Newton, MS 39345-2642<br><a href=\"https://maps.google.com/maps/place?ftid=0x88830a2fff0c462f:0x998690e8a9d67cd2&amp;q=107+Adams+Street+Newton,+MS++39345-2642&amp;hl=en&amp;authuser=0&amp;cd=1&amp;cad=src:ppiwlink&amp;ei=ZMy4UImeCKWiwQHV1oCwDA&amp;sig2=4KvuxlZYGRn34df0_kK4yQ&amp;dtab=5\" target=\"_blank\"><img src=\"https://cbks0.google.com/cbk?output=thumbnail&amp;w=90&amp;h=68&amp;ll=32.318877,-89.161346&amp;thumb=0\"></a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -89.930237,
+                    34.309795,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "WIN Job Center",
+                "styleUrl": "#style9",
+                "styleHash": "-6b3a3325"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -89.651863,
+                    30.547812,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Employment Security Commission",
+                "styleUrl": "#style35",
+                "styleHash": "-7fcc2298"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -90.472015,
+                    31.253443,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Win Job Center",
+                "styleUrl": "#style47",
+                "styleHash": "-134c1519"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -89.017937,
+                    34.257187,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "WIN Job Center",
+                "styleUrl": "#style6",
+                "styleHash": "45173ffe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -90.122398,
+                    32.277756,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Employment Service",
+                "styleUrl": "#style43",
+                "styleHash": "2d20846b"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -89.790833,
+                    34.989136,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Win Job Center",
+                "styleUrl": "#style11",
+                "styleHash": "-58cc3d96"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -89.869797,
+                    31.962498,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Employment Security Commission",
+                "styleUrl": "#style40",
+                "styleHash": "-228e0872"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -90.632492,
+                    33.447769,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Indianola WIN Job Center",
+                "styleUrl": "#style3",
+                "styleHash": "-a974cdf",
+                "description": "Indianola WIN Job Center<br>226 N. Martin Luther King Dr.<br>Indianola, MS38751<br><a href=\"https://maps.google.com/maps/place?ftid=0x862bb565f4bcc6e9:0x2d9cbfe81ee082a7&amp;q=226+N.+Martin+Luther+King+Dr.+Indianola,+MS++38751&amp;hl=en&amp;authuser=0&amp;cd=1&amp;cad=src:ppiwlink&amp;ei=rM24UKKZNIPswQHU9oDgBg&amp;sig2=dTwTHU23GDf-veMtP3rORw&amp;dtab=5\" target=\"_blank\"><img src=\"https://cbks0.google.com/cbk?output=thumbnail&amp;w=90&amp;h=68&amp;ll=33.447768,-90.632490&amp;thumb=0\"></a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -89.961456,
+                    34.6194,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Senatobia WIN Jobs Center",
+                "styleUrl": "#style28",
+                "styleHash": "432c1004",
+                "description": "Senatobia WIN Jobs Center<br>226 E Main St<br>Senatobia, MS 38668<br><a href=\"https://maps.google.com/maps/place?ftid=0x887ff91f8adcbddb:0x3e3b35c730fea293&amp;q=226K+East+Main+St.+Senatobia,+MS++38668-0508&amp;hl=en&amp;authuser=0&amp;cd=1&amp;cad=src:ppiwlink&amp;ei=y824UPrFJbS5wAHGjYGgDQ&amp;sig2=qFzZSA5maMjsDxExGAY6BA&amp;dtab=5\" target=\"_blank\"><img src=\"https://cbks0.google.com/cbk?output=thumbnail&amp;w=90&amp;h=68&amp;ll=34.619399,-89.961455&amp;thumb=0\"></a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -88.202042,
+                    34.805592,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Employment Security Commission",
+                "styleUrl": "#style49",
+                "styleHash": "-338261db"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -88.999031,
+                    34.493122,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "WIN Job Center",
+                "styleUrl": "#style22",
+                "styleHash": "-5c3109b6"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -90.139153,
+                    31.123589,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Employment Services",
+                "styleUrl": "#style30",
+                "styleHash": "50bb9d4d"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -90.880615,
+                    32.345768,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Vicksburg WIN Job Center",
+                "styleUrl": "#style41",
+                "styleHash": "4d56d12d"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -91.037727,
+                    33.396648,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Employment Security Commission",
+                "styleUrl": "#style7",
+                "styleHash": "-4b03e663"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -89.054565,
+                    33.131836,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Employment Service",
+                "styleUrl": "#style10",
+                "styleHash": "374ee8cb"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -89.32177,
+                    31.312115,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Employment Security Department",
+                "styleUrl": "#style15",
+                "styleHash": "66c728e6"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -88.97242,
+                    30.40188,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Win Job Center",
+                "styleUrl": "#style4",
+                "styleHash": "654d8cc0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -91.395271,
+                    31.513594,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "107 Col John Pitchford Pkwy",
+                "styleUrl": "#style50",
+                "styleHash": "6a2851cf",
+                "description": "Natchez, MS 39120<br><a href=\"https://maps.google.com/maps/place?ftid=0x8625f0db46b3cc4f:0xbfbc8046cd0bc88a&amp;q=107+John+Pitchford+Parkway,+Natchez,+MS&amp;hl=en&amp;authuser=0&amp;cd=1&amp;cad=src:ppiwlink&amp;ei=O97IUK6sGoTLtgeBxIHgBQ&amp;sig2=NeNdt7g8m2vgEbij-xpLPA&amp;dtab=5\" target=\"_blank\"><img src=\"https://cbks0.google.com/cbk?output=thumbnail&amp;w=90&amp;h=68&amp;ll=31.513593,-91.395271&amp;thumb=0\"></a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -88.998024,
+                    33.895737,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "210 S Monroe St",
+                "styleUrl": "#style14",
+                "styleHash": "-91db0b9",
+                "description": "Houston, MS 38851<br>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -89.483429,
+                    32.347012,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Forest, MS WIN Job Center",
+                "styleUrl": "#style32",
+                "styleHash": "3085508b",
+                "description": "<div dir=\"ltr\">536 Deerfield Dr<br>Forest, MS 39074</div>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -90.053169,
+                    33.108906,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Lexington WIN Job Center",
+                "styleUrl": "#style27",
+                "styleHash": "-2cb8c99b",
+                "description": "<div dir=\"ltr\">303 Yazoo Street<br>Lexington, MS 39095</div>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -88.675331,
+                    32.776775,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Win Job Center",
+                "styleUrl": "#style18",
+                "styleHash": "-498a4a3d",
+                "description": "<div dir=\"ltr\">DeKalb WIN Job Center<br>14817 Highway 16 West<br>DeKalb, MS 39328</div>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -89.557236,
+                    34.36544,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "204 Cannonade Ln",
+                "styleUrl": "#style20",
+                "styleHash": "-3bfabcf4",
+                "description": "<div dir=\"ltr\">204 Colonnade Cove, Suite 1<br>Oxford, MS 38655</div>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -89.557228,
+                    34.365444,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Placemark 60",
+                "styleUrl": "#style5",
+                "styleHash": "-2acd99a1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -89.557228,
+                    34.365444,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Placemark 61",
+                "styleUrl": "#style39",
+                "styleHash": "3fc743e4"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -90.148003,
+                    32.389954,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Hinds Co. WIN Job Center",
+                "styleUrl": "#style23",
+                "styleHash": "13b3cfe9",
+                "description": "<div dir=\"ltr\">Hinds WIN Job Center<br>5959 I-55 Frontage Road Suite C<br>Jackson, MS 39213</div>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -91.037804,
+                    33.396652,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "800 Martin Luther King Jr Blvd",
+                "styleUrl": "#style8",
+                "styleHash": "24e0f33c",
+                "description": "Greenville, MS 38703<br><a href=\"https://www.google.com/maps/place?ftid=0x862bed0ceebe41fb:0x255a043ada45f4de&amp;q=800+Martin+Luther+King+Jr+Blvd,+Greenville,+MS&amp;hl=en&amp;cd=1&amp;cad=src:ppiwlink&amp;ei=Jj_SUPPhL9Petwfvv4Ew&amp;sig2=JRezkbeH6E31XBb01j5A3Q&amp;dtab=5\" target=\"_blank\"><img src=\"https://cbks0.google.com/cbk?output=thumbnail&amp;w=90&amp;h=68&amp;ll=33.396651,-91.037804&amp;thumb=0\"></a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -89.806076,
+                    31.244221,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "1111 U.S. 98",
+                "styleUrl": "#style48",
+                "styleHash": "5c98c486",
+                "description": "Columbia, MS 39429<br><a href=\"https://www.google.com/maps/place?ftid=0x889d69c920fcd6b3:0x4911a17889368949&amp;q=1111+Hwy.+98+columbia,+ms&amp;hl=en&amp;cd=1&amp;cad=src:ppiwlink&amp;ei=1ELSULeWDITftgePoYHYAg&amp;sig2=RaL9MB5mhF894ov-llALfw&amp;dtab=5\" target=\"_blank\"><img src=\"https://cbks0.google.com/cbk?output=thumbnail&amp;w=90&amp;h=68&amp;ll=31.244220,-89.806074&amp;thumb=0\"></a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -90.185608,
+                    32.299953,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "205 E Capitol St",
+                "styleUrl": "#style44",
+                "styleHash": "29cac0a0",
+                "description": "Jackson, MS 39201<br><a href=\"https://maps.google.com/maps/place?ftid=0x8628325285d89039:0x58c98d496fae5b49&amp;q=205+E+Capitol+St,+Jackson,+MS&amp;hl=en&amp;authuser=0&amp;cd=1&amp;cad=src:ppiwlink&amp;ei=JJ8BUem3FoS-wQGJrYCoCA&amp;sig2=4WNf93gIPCbdbaQ_hp8c5A&amp;dtab=5\" target=\"_blank\"><img src=\"https://cbks0.google.com/cbk?output=thumbnail&amp;w=90&amp;h=68&amp;ll=32.299953,-90.185611&amp;thumb=0\"></a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -90.113533,
+                    32.415108,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "740 Avignon Dr",
+                "styleUrl": "#style52",
+                "styleHash": "49f2050d",
+                "description": "Ridgeland, MS 39157<br>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -89.121864,
+                    32.801273,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "WIN Job Center",
+                "styleUrl": "#style25",
+                "styleHash": "-49ff1a83",
+                "description": "<div dir=\"ltr\">1016 Saxon Airport Road<br>Philadelphia, MS 39350</div>"
+            }
+        }
+    ]
+}

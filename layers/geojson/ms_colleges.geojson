@@ -1,0 +1,1042 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -88.63377705700334,
+                    30.410576286223073
+                ]
+            },
+            "properties": {
+                "name": "Jackson County",
+                "AREA": "0.00000",
+                "PERIMETER": "0.00000",
+                "CLASS": "OC",
+                "Main_C": "Gulf Coast"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -89.00475381378665,
+                    30.40753800176514
+                ]
+            },
+            "properties": {
+                "name": "Jefferson Davis",
+                "AREA": "0.00000",
+                "PERIMETER": "0.00000",
+                "CLASS": "OC",
+                "Main_C": "Gulf Coast"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -89.20253732358863,
+                    30.358543269633014
+                ]
+            },
+            "properties": {
+                "name": "West Harrison",
+                "AREA": "0.00000",
+                "PERIMETER": "0.00000",
+                "CLASS": "OC",
+                "Main_C": "Gulf Coast"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -90.73553771890674,
+                    33.746405885157124
+                ]
+            },
+            "properties": {
+                "name": "Delta State University",
+                "AREA": "0.00000",
+                "PERIMETER": "0.00000",
+                "CLASS": "SC",
+                "Main_C": "DSU"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -90.34237866678781,
+                    33.51241059690325
+                ]
+            },
+            "properties": {
+                "name": "Mississippi Valley State University",
+                "AREA": "0.00000",
+                "PERIMETER": "0.00000",
+                "CLASS": "SC",
+                "Main_C": "MVSU"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -90.00964846442542,
+                    34.93602126762833
+                ]
+            },
+            "properties": {
+                "name": "Desoto",
+                "AREA": "0.00000",
+                "PERIMETER": "0.00000",
+                "CLASS": "OC",
+                "Main_C": "Northwest"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -90.0089218101501,
+                    34.93642473575703
+                ]
+            },
+            "properties": {
+                "name": "Southhaven Center",
+                "AREA": "0.00000",
+                "PERIMETER": "0.00000",
+                "CLASS": "OS",
+                "Main_C": "UM"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -89.97072659429368,
+                    34.62440583066689
+                ]
+            },
+            "properties": {
+                "name": "Northwest",
+                "AREA": "0.00000",
+                "PERIMETER": "0.00000",
+                "CLASS": "CC",
+                "Main_C": "Northwest"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -88.56339495845017,
+                    34.66789622087394
+                ]
+            },
+            "properties": {
+                "name": "Northeast",
+                "AREA": "0.00000",
+                "PERIMETER": "0.00000",
+                "CLASS": "CC",
+                "Main_C": "Northeast"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -88.56387800293187,
+                    34.6679237341409
+                ]
+            },
+            "properties": {
+                "name": "Booneville",
+                "AREA": "0.00000",
+                "PERIMETER": "0.00000",
+                "CLASS": "OS",
+                "Main_C": "UM"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -88.41186332986183,
+                    34.27493775980972
+                ]
+            },
+            "properties": {
+                "name": "Itawamba",
+                "AREA": "0.00000",
+                "PERIMETER": "0.00000",
+                "CLASS": "CC",
+                "Main_C": "Itawamba"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -88.67631514458584,
+                    34.33738987571542
+                ]
+            },
+            "properties": {
+                "name": "Tupelo",
+                "AREA": "0.00000",
+                "PERIMETER": "0.00000",
+                "CLASS": "OC",
+                "Main_C": "Itawamba"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -88.72535114426003,
+                    34.265098871008504
+                ]
+            },
+            "properties": {
+                "name": "Tupelo Center",
+                "AREA": "0.00000",
+                "PERIMETER": "0.00000",
+                "CLASS": "OS",
+                "Main_C": "MUW,UM"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -89.49435530072925,
+                    34.399083586823295
+                ]
+            },
+            "properties": {
+                "name": "Oxford",
+                "AREA": "0.00000",
+                "PERIMETER": "0.00000",
+                "CLASS": "OC",
+                "Main_C": "Northwest"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -89.53874975239187,
+                    34.364950646886264
+                ]
+            },
+            "properties": {
+                "name": "University of Mississippi",
+                "AREA": "0.00000",
+                "PERIMETER": "0.00000",
+                "CLASS": "SC",
+                "Main_C": "UM"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -89.81683366853042,
+                    33.79130966017016
+                ]
+            },
+            "properties": {
+                "name": "Grenada",
+                "AREA": "0.00000",
+                "PERIMETER": "0.00000",
+                "CLASS": "OC",
+                "Main_C": "Holmes"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -91.05238071993594,
+                    33.39022356095157
+                ]
+            },
+            "properties": {
+                "name": "Greenville Center",
+                "AREA": "0.00000",
+                "PERIMETER": "0.00000",
+                "CLASS": "OS",
+                "Main_C": "DSU,MVSU"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -90.50419990997457,
+                    33.44507916496564
+                ]
+            },
+            "properties": {
+                "name": "MS Delta",
+                "AREA": "0.00000",
+                "PERIMETER": "0.00000",
+                "CLASS": "CC",
+                "Main_C": "MS Delta"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -88.796116653841,
+                    33.460218030164235
+                ]
+            },
+            "properties": {
+                "name": "Mississippi State University",
+                "AREA": "0.00000",
+                "PERIMETER": "0.00000",
+                "CLASS": "SC",
+                "Main_C": "MSU"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -88.62090559794208,
+                    33.45606773131283
+                ]
+            },
+            "properties": {
+                "name": "Golden Triangle",
+                "AREA": "0.00000",
+                "PERIMETER": "0.00000",
+                "CLASS": "OC",
+                "Main_C": "East MS"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -88.41865800678325,
+                    33.492741257461645
+                ]
+            },
+            "properties": {
+                "name": "Mississippi University for Women",
+                "AREA": "0.00000",
+                "PERIMETER": "0.00000",
+                "CLASS": "SC",
+                "Main_C": "MUW"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -89.91518659771454,
+                    32.971650691185026
+                ]
+            },
+            "properties": {
+                "name": "Holmes",
+                "AREA": "0.00000",
+                "PERIMETER": "0.00000",
+                "CLASS": "CC",
+                "Main_C": "Holmes"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -88.4833288029893,
+                    32.830163162183645
+                ]
+            },
+            "properties": {
+                "name": "East MS",
+                "AREA": "0.00000",
+                "PERIMETER": "0.00000",
+                "CLASS": "CC",
+                "Main_C": "East MS"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -89.11201705663464,
+                    32.439925528949274
+                ]
+            },
+            "properties": {
+                "name": "East Central",
+                "AREA": "0.00000",
+                "PERIMETER": "0.00000",
+                "CLASS": "CC",
+                "Main_C": "East Central"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -88.73371988615965,
+                    32.368208642485115
+                ]
+            },
+            "properties": {
+                "name": "Meridian",
+                "AREA": "0.00000",
+                "PERIMETER": "0.00000",
+                "CLASS": "CC",
+                "Main_C": "Meridian"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -88.67789295185696,
+                    32.36694728344606
+                ]
+            },
+            "properties": {
+                "name": "Meridian Center",
+                "AREA": "0.00000",
+                "PERIMETER": "0.00000",
+                "CLASS": "OS",
+                "Main_C": "MSU,USM"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -90.09611330013861,
+                    32.45434208272555
+                ]
+            },
+            "properties": {
+                "name": "Ridgeland",
+                "AREA": "0.00000",
+                "PERIMETER": "0.00000",
+                "CLASS": "OC",
+                "Main_C": "Holmes"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -90.84502198866959,
+                    32.33580828044623
+                ]
+            },
+            "properties": {
+                "name": "Vicksburg",
+                "AREA": "0.00000",
+                "PERIMETER": "0.00000",
+                "CLASS": "OC",
+                "Main_C": "Hinds"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -90.87794905524362,
+                    32.29814578705893
+                ]
+            },
+            "properties": {
+                "name": "Vicksburg Center",
+                "AREA": "0.00000",
+                "PERIMETER": "0.00000",
+                "CLASS": "OS",
+                "Main_C": "ASU,MSU"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -90.4166624841828,
+                    32.25685300626066
+                ]
+            },
+            "properties": {
+                "name": "Hinds",
+                "AREA": "0.00000",
+                "PERIMETER": "0.00000",
+                "CLASS": "CC",
+                "Main_C": "Hinds"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -90.21145523389981,
+                    32.30072107109091
+                ]
+            },
+            "properties": {
+                "name": "Jackson State University",
+                "AREA": "0.00000",
+                "PERIMETER": "0.00000",
+                "CLASS": "SC",
+                "Main_C": "JSU"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -90.14465154381868,
+                    32.338908038256804
+                ]
+            },
+            "properties": {
+                "name": "Universities Center",
+                "AREA": "0.00000",
+                "PERIMETER": "0.00000",
+                "CLASS": "OS",
+                "Main_C": "JSU"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -90.05420591892644,
+                    32.23662922827799
+                ]
+            },
+            "properties": {
+                "name": "Rankin",
+                "AREA": "0.00000",
+                "PERIMETER": "0.00000",
+                "CLASS": "OC",
+                "Main_C": "Hinds"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -90.62596526170041,
+                    32.04473273559966
+                ]
+            },
+            "properties": {
+                "name": "Utica",
+                "AREA": "0.00000",
+                "PERIMETER": "0.00000",
+                "CLASS": "OC",
+                "Main_C": "Hinds"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -91.13667888193446,
+                    31.87514914794425
+                ]
+            },
+            "properties": {
+                "name": "Alcorn State University",
+                "AREA": "0.00000",
+                "PERIMETER": "0.00000",
+                "CLASS": "SC",
+                "Main_C": "ASU"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -90.3997461208861,
+                    31.69081491776038
+                ]
+            },
+            "properties": {
+                "name": "Copiah-Lincoln",
+                "AREA": "0.00000",
+                "PERIMETER": "0.00000",
+                "CLASS": "CC",
+                "Main_C": "Copiah-Lincoln"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -91.35882412035984,
+                    31.55678242755339
+                ]
+            },
+            "properties": {
+                "name": "Natchez",
+                "AREA": "0.00000",
+                "PERIMETER": "0.00000",
+                "CLASS": "OC",
+                "Main_C": "Copiah-Lincoln"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -91.40451793132587,
+                    31.53753479896046
+                ]
+            },
+            "properties": {
+                "name": "Natchez Center",
+                "AREA": "0.00000",
+                "PERIMETER": "0.00000",
+                "CLASS": "OS",
+                "Main_C": "ASU"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -90.44730388164209,
+                    31.29453706721089
+                ]
+            },
+            "properties": {
+                "name": "Southwest",
+                "AREA": "0.00000",
+                "PERIMETER": "0.00000",
+                "CLASS": "CC",
+                "Main_C": "Southwest"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -89.2020297821236,
+                    31.595372718286107
+                ]
+            },
+            "properties": {
+                "name": "Jones",
+                "AREA": "0.00000",
+                "PERIMETER": "0.00000",
+                "CLASS": "CC",
+                "Main_C": "Jones"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -89.33916271312957,
+                    31.33158916496228
+                ]
+            },
+            "properties": {
+                "name": "University of Southern Mississippi",
+                "AREA": "0.00000",
+                "PERIMETER": "0.00000",
+                "CLASS": "SC",
+                "Main_C": "USM"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -89.30755411923744,
+                    31.279962806686648
+                ]
+            },
+            "properties": {
+                "name": "Forrest County",
+                "AREA": "0.00000",
+                "PERIMETER": "0.00000",
+                "CLASS": "OC",
+                "Main_C": "Pearl River"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -89.5447503098318,
+                    30.844698340345364
+                ]
+            },
+            "properties": {
+                "name": "Pearl River",
+                "AREA": "0.00000",
+                "PERIMETER": "0.00000",
+                "CLASS": "CC",
+                "Main_C": "Pearl River"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -89.14367584122398,
+                    30.78068765159448
+                ]
+            },
+            "properties": {
+                "name": "Gulf Coast",
+                "AREA": "0.00000",
+                "PERIMETER": "0.00000",
+                "CLASS": "CC",
+                "Main_C": "Gulf Coast"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -88.56507129432327,
+                    30.923035066844832
+                ]
+            },
+            "properties": {
+                "name": "George County",
+                "AREA": "0.00000",
+                "PERIMETER": "0.00000",
+                "CLASS": "OC",
+                "Main_C": "Gulf Coast"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -89.6001482856497,
+                    30.368067423496864
+                ]
+            },
+            "properties": {
+                "name": "Stennis Space Center",
+                "AREA": "0.00000",
+                "PERIMETER": "0.00000",
+                "CLASS": "OS",
+                "Main_C": "USM"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -89.15686388487067,
+                    30.359536753982226
+                ]
+            },
+            "properties": {
+                "name": "Gulfport Park Center",
+                "AREA": "0.00000",
+                "PERIMETER": "0.00000",
+                "CLASS": "OS",
+                "Main_C": "USM"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -90.22078560726142,
+                    32.35659346808151
+                ]
+            },
+            "properties": {
+                "name": "Jackson- Academic",
+                "AREA": "0.00000",
+                "PERIMETER": "0.00000",
+                "CLASS": "OC",
+                "Main_C": "Hinds"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -90.56986743201003,
+                    34.25541034872138
+                ]
+            },
+            "properties": {
+                "name": "Coahoma",
+                "AREA": "0.00000",
+                "PERIMETER": "0.00000",
+                "CLASS": "CC",
+                "Main_C": "Coahoma"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -90.25628696035375,
+                    32.287903379463515
+                ]
+            },
+            "properties": {
+                "name": "Jackson- Nursing",
+                "AREA": "0.00000",
+                "PERIMETER": "0.00000",
+                "CLASS": "OC",
+                "Main_C": "Hinds"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -91.04107941374144,
+                    33.338007721967315
+                ]
+            },
+            "properties": {
+                "name": "Greenville Higher Ed Center",
+                "AREA": "0.00000",
+                "PERIMETER": "0.00000",
+                "CLASS": "OC",
+                "Main_C": "MS Delta"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -89.79664613988486,
+                    31.918394030627585
+                ]
+            },
+            "properties": {
+                "name": "Simpson",
+                "AREA": "0.00000",
+                "PERIMETER": "0.00000",
+                "CLASS": "OC",
+                "Main_C": "Copiah-Lincoln"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -89.38512508334264,
+                    30.303162967980303
+                ]
+            },
+            "properties": {
+                "name": "Hancock Center",
+                "AREA": "0.00000",
+                "PERIMETER": "0.00000",
+                "CLASS": "OC",
+                "Main_C": "Gulf Coast"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -89.12304335407181,
+                    30.375384900871406
+                ]
+            },
+            "properties": {
+                "name": "Naval Center",
+                "AREA": "0.00000",
+                "PERIMETER": "0.00000",
+                "CLASS": "OC",
+                "Main_C": "Gulf Coast"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -88.91036637754138,
+                    30.399037528328762
+                ]
+            },
+            "properties": {
+                "name": "Keesler",
+                "AREA": "0.00000",
+                "PERIMETER": "0.00000",
+                "CLASS": "OC",
+                "Main_C": "Gulf Coast"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -90.24167536193512,
+                    32.2874506508197
+                ]
+            },
+            "properties": {
+                "name": "E-Center",
+                "AREA": "0.00000",
+                "PERIMETER": "0.00000",
+                "CLASS": "OS",
+                "Main_C": "JSU"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -90.19453592107166,
+                    32.328470802426985
+                ]
+            },
+            "properties": {
+                "name": "Medical Mall",
+                "AREA": "0.00000",
+                "PERIMETER": "0.00000",
+                "CLASS": "OS",
+                "Main_C": "JSU"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -90.1734229092569,
+                    32.32858343034408
+                ]
+            },
+            "properties": {
+                "name": "UM Medical Center",
+                "AREA": "0.00000",
+                "PERIMETER": "0.00000",
+                "CLASS": "OS",
+                "Main_C": "UM"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -88.6326955344654,
+                    30.41094228154945
+                ]
+            },
+            "properties": {
+                "name": "Jackson County",
+                "AREA": "0.00000",
+                "PERIMETER": "0.00000",
+                "CLASS": "OS",
+                "Main_C": "USM"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -90.18580321466543,
+                    33.52429154713568
+                ]
+            },
+            "properties": {
+                "name": "Greenwood Center",
+                "AREA": "0.00000",
+                "PERIMETER": "0.00000",
+                "CLASS": "OS",
+                "Main_C": "MVSU"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -88.7972728662038,
+                    30.393806655728287
+                ]
+            },
+            "properties": {
+                "name": "Gulf Coast Research Lab",
+                "AREA": "0.00000",
+                "PERIMETER": "0.00000",
+                "CLASS": "OS",
+                "Main_C": "USM"
+            }
+        }
+    ]
+}
