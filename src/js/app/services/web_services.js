@@ -2,16 +2,16 @@
     'use strict';
 
     angular.module('demoApp')
-        .factory('webServices', ["webRequest", webServices]);
+        .factory('webServices', ["webRequest", '$http', webServices]);
 
-    function webServices(webRequest) {
+    function webServices(webRequest, $http) {
         var service = {};
 
         /*
          * Load JSON
          */
         service.loadJson = function (url) {
-            return webRequest.get(url);
+            return $http.get(url);
         };
 
         return service;
