@@ -8,7 +8,7 @@
         var service = {};
 
         var feature = null;
-        var jsonUrl = '/layers/geojson/win_job_center.geojson';
+        var jsonUrl = 'layers/geojson/win_job_center.geojson';
         var iconUrl = 'http://maps.google.com/mapfiles/kml/pal3/icon21.png';
         var opts = {
             icon: iconUrl,

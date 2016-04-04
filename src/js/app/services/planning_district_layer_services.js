@@ -8,7 +8,7 @@
         var service = {};
 
         var features = null;
-        var jsonUrl = '/layers/geojson/planning_district.geojson';
+        var jsonUrl = 'layers/geojson/planning_district.geojson';
         var opts = {
             pixelOffset: new google.maps.Size(0, 0)
         };

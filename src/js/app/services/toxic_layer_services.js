@@ -8,7 +8,7 @@
         var service = {};
 
         var feature = null;
-        var jsonUrl = '/layers/geojson/toxics.geojson';
+        var jsonUrl = 'layers/geojson/toxics.geojson';
         var iconUrl = 'http://maps.google.com/mapfiles/kml/pal3/icon47.png';
         var opts = {
             icon: iconUrl,

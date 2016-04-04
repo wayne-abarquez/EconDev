@@ -8,7 +8,7 @@
         var service = {};
 
         var feature = null;
-        var jsonUrl = '/layers/geojson/ms_colleges.geojson';
+        var jsonUrl = 'layers/geojson/ms_colleges.geojson';
         var iconUrl = 'http://maps.google.com/mapfiles/kml/pal3/icon31.png';
         var opts = {
             icon: iconUrl,
